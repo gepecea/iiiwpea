@@ -341,12 +341,6 @@ table {
 				margin: auto;
 
 			}
-			#prppg{
-				width: 120px;
-				height: 40px;
-				margin: auto;
-				transform: translateX();
-			}
 			.txt-3{
 				font-size: 1.5em;
 				text-align: center;
