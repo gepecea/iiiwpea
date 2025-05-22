@@ -351,6 +351,9 @@ table {
 				height: 8vh;
 				width: 99vw;
 			}
+			.ajuste1, .ajuste2{
+				width: 99vw;				
+			}
 	#video{
 	display: flex;
 	margin: auto;
